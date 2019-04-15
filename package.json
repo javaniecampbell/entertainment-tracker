@@ -1,0 +1,26 @@
+{
+  "name": "moviestracker",
+  "version": "1.0.0",
+  "description": "A sample application for tracking your favourite movies and television series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaniecampbell/entertainment-tracker.git"
+  },
+  "keywords": [
+    "react",
+    "knockoutjs",
+    "socket.io",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Javanie M. Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaniecampbell/entertainment-tracker/issues"
+  },
+  "homepage": "https://github.com/javaniecampbell/entertainment-tracker#readme"
+}
